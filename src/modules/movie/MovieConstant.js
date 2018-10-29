@@ -1,0 +1,7 @@
+export const GET_MOVIES = 'MovieState/GET_MOVIES'
+export const GET_MOVIES_FAILED = 'MovieState/GET_MOVIES_FAILED'
+export const GET_MOVIES_FULFILLED = 'MovieState/GET_MOVIES_FULFILLED'
+
+export const GET_MOVIE_DETAIL = 'MovieState/GET_MOVIE_DETAIL'
+export const GET_MOVIE_DETAIL_FAILED = 'MovieState/GET_MOVIE_DETAIL_FAILED'
+export const GET_MOVIE_DETAIL_FULFILLED = 'MovieState/GET_MOVIE_DETAIL_FULFILLED'
